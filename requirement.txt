@@ -1,0 +1,9 @@
+flask
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langgraph
+faiss-cpu
+typing-extensions
