@@ -33,4 +33,26 @@ Road Safety Intervention GPT is an intelligent web-based application that analyz
 - FAISS
 - HTML & CSS
 
+## Instructions 
 
+# 1. Clone the repository
+git clone https://github.com/Rashi-Rajput/road-safety-intervention-gpt.git
+cd road-safety-intervention-gpt
+
+
+# 2. Create and activate virtual environment
+python -m venv venv
+source venv/bin/activate  
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 4. Set up environment variables
+ Create a .env file and add:
+ GOOGLE_API_KEY=your_google_api_key_here
+
+# 5. Run the application
+python app.py
+
+# 6. Open in browser
+# http://localhost:5000
