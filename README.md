@@ -37,11 +37,13 @@ Road Safety Intervention GPT is an intelligent web-based application that analyz
 
 # 1. Clone the repository
 git clone https://github.com/Rashi-Rajput/road-safety-intervention-gpt.git
+
 cd road-safety-intervention-gpt
 
 
 # 2. Create and activate virtual environment
 python -m venv venv
+
 source venv/bin/activate  
 
 # 3. Install dependencies
